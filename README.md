@@ -18,3 +18,6 @@ https://huggingface.co/sentence-transformers/all-mpnet-base-v2
 
 #library 
 from sentence_transformers import SentenceTransformer
+
+#results
+provided as file in repo
