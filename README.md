@@ -14,6 +14,21 @@ Please cite when using it:
       url={https://arxiv.org/abs/2507.21722}, 
 }
 
+
+
+Results are provided in the following data report: http://dx.doi.org/10.13140/RG.2.2.28124.71047 
+
+@dataset{dataset,
+author = {Graser, Stefan and Schrepp, Martin and Kollmorgen, Jessica and Escalona, María and Böhm, Stephan},
+year = {2025},
+month = {06},
+pages = {},
+title = {Classification of AR Design Recommendations on UX Dimensions: Preliminary Study Results: Research Report & Data},
+doi = {10.13140/RG.2.2.28124.71047}
+}
+
+
+
 We want to acknowledge the work we based on: 
 
 @inproceedings{9781450390927,
